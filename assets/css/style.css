@@ -39,7 +39,7 @@ body {
     border-color: white;
 }
 .banner {
-    background-image: url('../imgs/image.webp'); /* Substitua pela sua imagem */
+    background-image: url('../imgs/fundo2.webp'); /* Substitua pela sua imagem */
     background-size: cover;
     background-position: center;
     height: 100vh;
